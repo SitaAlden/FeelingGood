@@ -1,0 +1,67 @@
+/*Dektop Version*/
+@media (min-width: 992px){
+    .navbar-brand, .nav-link {
+        color: black !important;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, alpha) ;
+    }
+
+    .nav-link{
+        text-transform: uppercase;
+        margin-right: 20px;
+    }
+    .nav-link : hover{
+        border-bottom: 3px solid #0B63DC;
+    }
+
+    .workingspace {
+        text-align: left ;
+    }
+    .testimonial h5 {
+        font-size: 30px;
+    
+    }
+}
+.form .mb-3 {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, alpha) ;
+}
+/* Footer */
+.footer {
+    margin-top: 150px;
+}
+.footer p {
+    color: #ACACAC;
+    font-size: 15px ;
+}
+.svg {
+    margin-top: 30px;
+    font-size: 12px
+    margin-left: 250px;
+    margin-right: 300px;
+}
+
+.form-floating {
+    width: 650px;
+}
+.jumbotron .body{
+    margin-top: 30px;
+    background-image: url("gambar/loginbaru.png") ;
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 40vmax;
+}
+hr {
+    width: 650px;
+    }
+.btn-danger {
+    margin-left: 250px;
+    margin-right: 300px;
+}
+.btn-primary {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+/* Utility */
+.tombol {
+    text-transform: uppercase;
+    border-radius: 40px;
+}
